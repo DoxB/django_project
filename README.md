@@ -1,3 +1,3 @@
-# djang_project
+# django_project
 
 0826
